@@ -16,7 +16,7 @@ export const ContactSchema = new Schema({
         type: String
     },
     company : {
-        type: stringify
+        type: String
     },
     phone: {
         type: Number
